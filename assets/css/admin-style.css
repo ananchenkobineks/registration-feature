@@ -1,0 +1,6 @@
+#menu-dashboard .update-plugins,
+#menu-plugins .update-plugins,
+body.plugins-php td.plugin-update .update-message {
+	display: none;
+}
+

@@ -1,0 +1,27 @@
+.registration #buddypress .standard-form#signup_form div.submit {
+	float: none;
+	display: inline-block;
+}
+.registration #buddypress .standard-form#signup_form div.submit.code {
+	margin-top: 20px;
+    margin-right: 15px;
+}
+.registration #buy-activation-code {
+	background: #5cb85c;
+    color: #fff;
+    border: 1px solid transparent;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 17px 25px;
+    border-radius: 4px;
+    transition: all 0.4s ease-in-out 0s;
+}
+.registration #buy-activation-code:hover {
+	background-color: #f7f7f7;
+	border-color: #e5e5e5;
+	color: #444;
+}
+form.checkout #billing_email_field {
+    float: none;
+    width: 100%;
+}
